@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661330467573",
+    "project_id": "optimized-firestore-app",
+    "storage_bucket": "optimized-firestore-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661330467573:android:f9f2b050ecb171ac3203bc",
+        "android_client_info": {
+          "package_name": "com.example.optimized_firestore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTK-bT9TzcyqcJQXXh3Lb-Ma5fkAu54zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
